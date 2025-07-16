@@ -1,0 +1,8 @@
+[package]
+name = "rlpm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = "0.12.22"
+zip = "4.3.0"
